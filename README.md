@@ -1,3 +1,3 @@
 # Demo
 
-Learning Github preactice.
+Learning Github practice.
